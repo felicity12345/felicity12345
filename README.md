@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-i am Felix,this account is a showcase of stuff i like working on.
+My name is Felix, I am a self developed Data Analyst
+this account is a showcase of stuff i like working on.
 
 - 🔭 I’m currently working on a project The amount of Energy used in the Uk
 - 🌱 I’m currently learning statistical analysis and computing, Machine Learning, and deep learning
