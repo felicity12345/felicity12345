@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Felix, I am a self developed Data Analyst currently seeking for a graduate role to explore
+My name is Felix, I am a Data Analyst currently seeking for a graduate role to explore
 
 This account is a showcase of stuff i like working on.
 
