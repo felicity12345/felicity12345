@@ -9,6 +9,5 @@ This account showcases the kinds of stuff I like working on.
 - I have experience in SQL, Excel, Python, R, software development, Tableau, Power BI etc 
 - 💬 Ask me about (Within reason)
 - 📫 How to reach me: osawarufelicity@gmail.com
--    My official LinkedIn: https://www.linkedin.com/in/felix-osawaru-83ab39255/
 -    My official website: https://felicity12345.github.io/felixportfolio.github.io/
 
