@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Felix, I am a Data Analyst currently seeking a graduate role to explore
+My name is Felix, I am a Data Analyst currently working as a freelancer.
 
 This account showcases the kinds of stuff I like working on.
 
